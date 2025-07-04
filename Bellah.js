@@ -1,5 +1,5 @@
 //base by DGXeon
-//recode by Dave
+//recode by GiddyTennor 
 
 require('./lib/listmenu')
 const {
@@ -289,14 +289,14 @@ contextInfo: {
 forwardingScore: 999,
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
-newsletterName: "☌ DAVE-XMD☌",
+newsletterName: "☌ 𝗩𝗼𝗹𝘁𝗮𝗵 𝗫𝗺𝗱☌",
 newsletterJid: "120363257205745956@newsletter",
 },
 externalAdReply: {  
 showAdAttribution: true,
 title: global.botname, 
 body: global.ownername,
-thumbnailUrl: 'https://files.catbox.moe/wmpdap.mp4',
+thumbnailUrl: 'https://files.catbox.moe/vr83h2.jpg',
 sourceUrl: 'https://files.catbox.moe/vr83h2.jpg',
 },
 },
@@ -1043,14 +1043,14 @@ return `\n *Exaple Provide :*\n request *${prefix+command}* ${teks}\n`
 
 //============= [ COMMANDS ] ====================================================
         switch (isCommand) {
-    case 'menu': 
+    /*case 'menu': 
 case 'help': {
 let Menu = `
-┏━━「 \` DAVE-𝐗MD\` 」
-│ ─≽ *Creator*: *Gifted Dave*
+┏━━「 \` 𝐕𝐨𝐥𝐓𝐚𝐡 𝐗𝐦𝐝\` 」
+│ ─≽ *Creator*: *𝐆𝐢𝐝𝐝𝐲 𝐓𝐞𝐧𝐧𝐨𝐫*
 │ ─≽ *Bot Name* :${global.botname}
 │ ─≽ *Name* : ${pushname}
-│ ─≽ *Version* :*1.𝟎.𝟎*
+│ ─≽ *Version* :*𝟐.𝟎.𝟎*
 │ ─≽ *Runtime* : ${runtime(process.uptime())}
 │ ─≽ *Totalfeature* : 138
 │ ─≽ *Ram* :${ram()}
@@ -1253,14 +1253,254 @@ let Menu = `
 ` 
     Bellah.sendMessage(m.chat, {
         image: {
-            url: `https://files.catbox.moe/wmpdap.mp4`
+            url: `https://files.catbox.moe/vr83h2.jpg
         },
         caption: Menu,
         gifPlayback: false
     }, { quoted: loli });
-await  Bellah.sendMessage(m.chat, { audio: {url: "https://files.catbox.moe/idskdm.mp3"}, mimetype: 'audio/mp4', ptt:true}, { quoted: loli });
+await  Bellah.sendMessage(m.chat, { audio: {url: "https://files.catbox.moe/vr83h2.jpg"}, mimetype: 'audio/mp4', ptt:true}, { quoted: loli });
 }
-break
+break*/
+                
+                case 'menu':
+                      case 'voltah': {
+    let credits = `
+┏━━⬣ ⌜\`Voltah Xmd\`⌟
+│ ─≽ *Creator*: *𝐆𝐢𝐝𝐝𝐲 𝐓𝐞𝐧𝐧𝐨𝐫*
+│ ─≽ *Bot Name* :${global.botname}
+│ ─≽ *Name* : ${pushname}
+│ ─≽ *Version* :*3.0.0*
+│ ─≽ *Runtime* : ${runtime(process.uptime())}
+│ ─≽ *Totalfeature* : 138
+│ ─≽ *Ram* :${ram()}
+
+┏━━「 \`Mode\` 」
+│ ─≽ *private*
+│ ─≽ *public*
+│ ─≽ *recording*
+│ ─≽ *typing*
+│ ─≽ *autoreact*
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`General\` 」
+│ ─≽ *ping*
+│ ─≽ *repo*
+│ ─≽ *bot*
+│ ─≽ *autostatusview*
+│ ─≽ *uptime*
+│ ─≽ *delete*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`Download\` 」
+│ ─≽ *song*
+│ ─≽ *play*
+│ ─≽ *play2*
+│ ─≽ *tiktok*
+│ ─≽ *vv*
+│ ─≽ *vv2*
+│ ─≽ *anime*
+│ ─≽ *detiknews*
+│ ─≽ *apk*
+│ ─≽ *apk2*
+│ ─≽ *fb*
+│ ─≽ *igdl2*
+│ ─≽ *igdl*
+│ ─≽ *lyrics*
+│ ─≽ *spotifydown*
+│ ─≽ *spotifysearch*
+│ ─≽ *igstalk*
+│ ─≽ *tiktokstalk*
+│ ─≽ *ytmp4*
+│ ─≽ *ytmp3*
+│ ─≽ *mediafire*
+│ ─≽ *playtiktok*
+│ ─≽ *play3*
+│ ─≽ *song2*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`Group\` 」
+│ ─≽ *remove*
+│ ─≽ *tagall*
+│ ─≽ *hidetag*
+│ ─≽ *promote*
+│ ─≽ *demote*
+│ ─≽ *kickall*
+│ ─≽ *kill*
+│ ─≽ *invite*
+│ ─≽ *add*
+│ ─≽ *open*
+│ ─≽ *close*
+│ ─≽ *antilinkgc*
+│ ─≽ *antilink*
+│ ─≽ *getidgc*
+│ ─≽ *ceklinkgc*
+│ ─≽ *gcinfo*
+│ ─≽ *poll*
+│ ─≽ *setppgc*
+│ ─≽ *listonline*
+│ ─≽ *resetlink*
+│ ─≽ *pin*
+│ ─≽ *setnamegc*
+│ ─≽ *request-join*
+│ ─≽ *approve*
+│ ─≽ *reject*
+│ ─≽ *left*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`Sticker\` 」
+│ ─≽ *s*
+│ ─≽ *take*
+│ ─≽ *brat*
+│ ─≽ *emojimix*
+│ ─≽ *notes*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`Owner\` 」
+│ ─≽ *getbio*
+│ ─≽ *getpp*
+│ ─≽ *block*
+│ ─≽ *unblock*
+│ ─≽ *storytext*
+│ ─≽ *storyaudio*
+│ ─≽ *storyimage*
+│ ─≽ *storyvideo*
+│ ─≽ *Creategc*
+│ ─≽ *listgc*
+│ ─≽ *setpp*
+│ ─≽ *onlypc*
+│ ─≽ *onlygc*
+│ ─≽ *reactch*
+│ ─≽ *createch*
+│ ─≽ *clear*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`Maths\` 」
+│ ─≽ *kalkulator*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`Search\` 」
+│ ─≽ *country*
+│ ─≽ *quiz*
+│ ─≽ *gpt*
+│ ─≽ *gpt2*
+│ ─≽ *gpt3*
+│ ─≽ *gemma*
+│ ─≽ *yts*
+│ ─≽ *pinterest*
+│ ─≽ *igstory*
+│ ─≽ *ytstalk*
+│ ─≽ *ffstalk*
+│ ─≽ *telestalk*
+│ ─≽ *meme*
+│ ─≽ *channelinfo*
+│ ─≽ *cekkodam*
+│ ─≽ *define*
+│ ─≽ *sfile*
+│ ─≽ *myip*
+│ ─≽ *trackip*
+│ ─≽ *xvideos*
+│ ─≽ *yiffersearch*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`Converter\` 」
+│ ─≽ *photo*
+│ ─≽ *tovideo*
+│ ─≽ *toaudio*
+│ ─≽ *tovn*
+│ ─≽ *translate*
+│ ─≽ *flux*
+│ ─≽ *deepimage*
+│ ─≽ *tourl*
+│ ─≽ *logo*
+│ ─≽ *tts*
+│ ─≽ *ghiblistyle*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`Religion\` 」
+│ ─≽ *Quran*
+│ ─≽ *Bible*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`Developer\` 」
+│ ─≽ *githubstalk*
+│ ─≽ *gitclone*
+│ ─≽ *getfile*
+│ ─≽ *scweb*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`Heroku\` 」
+│ ─≽ *getvars*
+│ ─≽ *setvar*
+│ ─≽ *update*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+┏━━「 \`Others\` 」
+│ ─≽ *cc*
+│ ─≽ *ckalender*
+│ ─≽ *epl*
+│ ─≽ *laliga*
+│ ─≽ *bundesliga*
+│ ─≽ *serie-a*
+│ ─≽ *ligue-1*
+│ ─≽ *fixtures*
+│ ─≽ *news*
+│ ─≽ *vcf*
+│ ─≽ *save*
+│ ─≽ *say*
+│──────♢
+┗━━━━━━━━━━━━━━━♢
+
+━━「 \`Email\` 」
+│ ─≽ *sendemail*
+│ ─≽ *tempmail*
+│──────♢
+┗━━⬣ ⌜ \`New version\`⌟
+`
+await Bellah.sendMessage(m.chat, {
+      image: { url: 'https://url.bwmxmd.online/Adams.s0tso4x6.jpg' },
+      gifPlayback: true,
+      caption: credits,
+      contextInfo: {
+      externalAdReply: {
+      showAdAttribution: true,
+      title: "Voltah Xmd",
+      body: "𝐆𝐢𝐟𝐭𝐞𝐝 𝐃𝐚𝐯𝐞",
+      thumbnailUrl: 'https://url.bwmxmd.online/Adams.s0tso4x6.jpg',
+      sourceUrl: "https://tiktok.com",
+      mediaType: 1,
+      renderLargerThumbnail: false
+      }
+      }
+      }, {
+                        quoted: m
+                    })
+      Bellah.sendMessage(m.chat, {
+                        audio: {url:'https://url.bwmxmd.online/Adams.0eltfmev.mp3'},
+                        mimetype: 'audio/mp4',
+                        ptt: true
+                    }, {
+                        quoted: m
+                    })
+await Bellah.sendMessage(m.chat, { react: { text: "🤍",key: m.key,}})
+await Bellah.sendMessage(m.chat, { react: { text: "🩶",key: m.key,}})
+await Bellah.sendMessage(m.chat, { react: { text: "🩵",key: m.key,}})
+await Bellah.sendMessage(m.chat, { react: { text: "🩷",key: m.key,}})
+await Bellah.sendMessage(m.chat, { react: { text: "💛",key: m.key,}})
+await Bellah.sendMessage(m.chat, { react: { text: "❤️",key: m.key,}})
+await Bellah.sendMessage(m.chat, { react: { text: "💔",key: m.key,}})  
+}
+          break
     //========================================================\               
             case "left": { 
                  if (!Owner) return m.reply (mess.owner)
@@ -1331,7 +1571,7 @@ if (Owner && quotedMessage && textL.startsWith(prefix + "save") && m.quoted.chat
                     `https://api.heroku.com/apps/${appname}/builds`,
                     {
                         source_blob: {
-                            url: "https://github.com/Tennor-modz/Bellah-Xmd/tarball/main",
+                            url: "https://github.com/gifteddaves/DAVE-MD/tarball/main",
                         },
                     },
                     {
@@ -1465,7 +1705,7 @@ for (const participan of responseList) {
     );
     console.log(response);
 }
-m.reply("DAVE-XMD has approved all pending requests✅");
+m.reply("VolTah Xmd has approved all pending requests✅");
 
 }
  break;
@@ -1659,7 +1899,7 @@ await Bellah.sendMessage(m.chat, { image: { url: pp },
  if (!Owner) return m.reply(mess.owner)
  if (!m.quoted) return m.reply("tag someone") 
  let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net'
-	 if (users == "254756182478@s.whatsapp.net") return m.reply("𝗜 𝗰𝗮𝗻𝗻𝗼𝘁 𝗯𝗹𝗼𝗰𝗸 𝗺𝘆 𝗢𝘄𝗻𝗲𝗿 😡");
+	 if (users == "254104260236@s.whatsapp.net") return m.reply("𝗜 𝗰𝗮𝗻𝗻𝗼𝘁 𝗯𝗹𝗼𝗰𝗸 𝗺𝘆 𝗢𝘄𝗻𝗲𝗿 😡");
 		  if (users  == Bellah.decodeJid(Bellah.user.id)) throw '𝗜 𝗰𝗮𝗻𝗻𝗼𝘁 𝗯𝗹𝗼𝗰𝗸 𝗺𝘆𝘀𝗲𝗹𝗳 𝗶𝗱𝗶𝗼𝘁 😡';
  await Bellah.updateBlockStatus(users, 'block'); 
  m.reply (`𝗕𝗹𝗼𝗰𝗸𝗲𝗱 𝘀𝘂𝗰𝗰𝗲𝘀𝗳𝘂𝗹𝗹𝘆!`); 
@@ -1706,7 +1946,7 @@ case 'phlogo': {
       contextInfo: {
         externalAdReply: {
           title: "Pornhub Logo Generator",
-          body: "Powered By DAVE-XMD",
+          body: "Powered By VolTah Xmd",
           thumbnailUrl: json.result,
           mediaType: 1,
           renderLargerThumbnail: true,
@@ -1829,10 +2069,10 @@ break
 break;
           //========================================================\        
 case 'bot' : {
-m.reply(`DAVE XMD 
+m.reply(`VolTah Xmd
 
 Status Bot : *Online*✅
-Developer : *Gifted Dave*
+Developer : *𝐆𝐢𝐟𝐭𝐞𝐝 𝐃𝐚𝐯𝐞*
 Mode Bot : *${Bellah.public ? "Public" : "Self"}*
 `)
     buttons: [
@@ -1870,7 +2110,7 @@ case'ceklinkgc':{
     const iidgc = budy.match('@g.us')
     if(!iidgc)return m.reply(`Provide a group ID\nExample : ${prefix + command} 120.......@g.us`)
     try{
-    const gc = "https://chat.whatsapp.com/" + await Bellah.groupInviteCode(text)
+    const gc = "https://chat.whatsapp.com/LNkkXQ1rDv3GQNFFbqLoMe?mode=r_t" + await Bellah.groupInviteCode(text)
 await m.reply(`${gc}`)
         }catch(e){
             m.reply('IdGroup must be Valid!!')
@@ -2178,7 +2418,7 @@ Bellah.chatModify({ delete: true, lastMessages: [{ key: m.key, messageTimestamp:
 break     
   //========================================================\\                 
 case 'fancy': case 'ctext': case 'createtext': case 'teks': {
-  if (!q) return m.reply('Format invalid!\nExample: fancy Giddy Tennor');
+  if (!q) return m.reply('Format invalid!\nExample: fancy 𝐆𝐢𝐟𝐭𝐞𝐝 𝐃𝐚𝐯𝐞');
   const axios = require('axios');
   const cheerio = require('cheerio');
 
@@ -2278,7 +2518,7 @@ case 'ig': case 'instagram': case 'igdl2': {
  key: m.key,
  }
  });
- await Bellah.sendMessage(m.chat, { video: { url: res.media }, caption: "✅ *Downloaded by Bellah Xmd!*" }, { quoted: m });
+ await Bellah.sendMessage(m.chat, { video: { url: res.media }, caption: "✅ *Downloaded by 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃!*" }, { quoted: m });
  } else if (res.type === "image") {
  await Bellah.sendMessage(m.chat, {
  react: {
@@ -2286,7 +2526,7 @@ case 'ig': case 'instagram': case 'igdl2': {
  key: m.key,
  }
  });
- await Bellah.sendMessage(m.chat, { image: { url: res.media }, caption: "✅ *Downloaded photo by Bellah Xmd!*" }, { quoted: m });
+ await Bellah.sendMessage(m.chat, { image: { url: res.media }, caption: "✅ *Downloaded photo by 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃!*" }, { quoted: m });
  }
  } catch (error) {
  console.error(error);
@@ -2972,8 +3212,8 @@ break
 case "reactionch": case "reactch": {
  if (!Owner) return m.reply(mess.owner)
  if (!text || !args[0] || !args[1]) 
- return m.reply("Contoh penggunaan:\n.reactch https://whatsapp.com/channel/0029VakRR89L7UVPwf53TB0v/4054 😂")
- if (!args[0].includes("https://whatsapp.com/channel/")) 
+ return m.reply("Contoh penggunaan:\n.reactch https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k")
+ if (!args[0].includes("https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k")) 
  return m.reply("provide a valid link")
  let result = args[0].split('/')[4]
  let serverId = args[0].split('/')[5]
@@ -3877,7 +4117,7 @@ if (/image/g.test(mime)) {
 let media = await Bellah.downloadAndSaveMediaMessage(qmsg)
 await Bellah.updateProfilePicture(botNumber, {url: media})
 await fs.unlinkSync(media)
-m.reply("Profile photo changed by DAVE-XMD")
+m.reply("Profile photo changed by 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃")
 } else return m.reply('tag/reply foto')}
 break
 //========================================================\\
@@ -4003,7 +4243,7 @@ const teksop = `     「 Create Group 」
 ▸ Owner : @${cret.owner.split("@")[0]}
 ▸ Creation : ${moment(cret.creation * 1000).tz("Asia/Kolkata").format("DD/MM/YYYY HH:mm:ss")}
 
-https://chat.whatsapp.com/${response}`
+https://chat.whatsapp.com/LNkkXQ1rDv3GQNFFbqLoMe?mode=r_t
 Bellah.sendMessage(m.chat, { text:teksop, mentions: await Bellah.parseMention(teksop)}, {quoted:m})
 } catch {
 	m.reply(`Error`)
@@ -4319,7 +4559,7 @@ case 'block':
                 case "repo": {
   try {
     let me = m.sender;
- const response = await axios.get(`https://api.github.com/repos/gifteddaves/DAVE-XMD`)
+ const response = await axios.get(`https://api.github.com/repos/Tennor-modz/Bellah-Xmd`)
     if (response.status === 200) {
       const repoData = response.data
       const repos = `
@@ -4333,18 +4573,18 @@ case 'block':
 > ${repoData.forks_count}
 
 *GITHUB LINK:* 
-https://github.com/gifteddaves/DAVE-XMD
+https://github.com/gifteddaves/DAVE-MD
 
 @${me.split("@")[0]}👋, Star ⭐ fork and deploy my repo 🤭
 
-> DAVE-XMD`;
+> 𝗩𝗼𝗹𝘁𝗮𝗵 𝗫𝗺𝗱`;
 Bellah.sendMessage(m.chat, { text : repos,
 contextInfo: {
 mentionedJid: [m.sender],
 forwardingScore: 9999, 
 isForwarded: true, 
 forwardedNewsletterMessageInfo: {
-newsletterJid: 'https://chat.whatsapp.com/Hs0AwkOaFzbGi5sjicdeTR',
+newsletterJid: 'https://chat.whatsapp.com/LNkkXQ1rDv3GQNFFbqLoMe?mode=r_t',
 serverMessageId: 20,
 newsletterName: '𝗩𝗼𝗹𝘁𝗮𝗵'
 },
@@ -4370,10 +4610,10 @@ break;
              if (!Owner) return reply(mess.owner)
                if (args.length < 1) return reply('on/off?')
                if (args[0] === 'on') {
-                  antistatusview = true
+                  antiswview = true
                   reply(`${command} is enabled`)
                } else if (args[0] === 'off') {
-                  antistatusview = true
+                  antiswview = true
                   reply(`${command} is disabled`)
                }
             }
@@ -4402,7 +4642,7 @@ break
             
 //========================================================\\
 case "ping": {
-await m.reply(`DAVE 𝗦𝗽𝗲𝗲𝗱 𝗖𝗵𝗲𝗰𝗸`)
+await m.reply(`𝗩𝗼𝗹𝗧𝗮𝗵 𝗦𝗽𝗲𝗲𝗱 𝗖𝗵𝗲𝗰𝗸`)
   const memoryUsage = process.memoryUsage();
   const cpuInfo = os.cpus().map(cpu => ({
     total: Object.values(cpu.times).reduce((a, b) => a + b, 0),
@@ -4424,14 +4664,14 @@ await m.reply(`DAVE 𝗦𝗽𝗲𝗲𝗱 𝗖𝗵𝗲𝗰𝗸`)
 
   const startTime = performance.now();
   const latency = performance.now() - startTime;
-  const finalStatus = `DAVE-XMD: ${latency.toFixed(4)} ms`;
+  const finalStatus = `𝗩𝗼𝗹𝗧𝗮𝗵 𝗫𝗺𝗱: ${latency.toFixed(4)} ms`;
   m.reply(finalStatus);
 }
 break;  
             //========================================================\\    
                 case 'uptime': { 
 
-         reply (`━━━━━━━━━━━━━━━━━\n\◉‿◉Welcome ${m.pushName}\n\━━━━━━━━━━━━━━━━━\n\*DAVE-XMD has been running for*  : ${runtime(process.uptime())} \n\━━━━━━━━━━━━━━━━━`); 
+         reply (`━━━━━━━━━━━━━━━━━\n\◉‿◉Welcome ${m.pushName}\n\━━━━━━━━━━━━━━━━━\n\*Voltah Xmd has been running for*  : ${runtime(process.uptime())} \n\━━━━━━━━━━━━━━━━━`); 
 }
 break;
           
@@ -4608,44 +4848,48 @@ case 'linkgroup':
                 if (!isAdmins && !isGroupOwner && !Owner) return m.reply(mess.admin)
                 if (!isBotAdmins) return m.reply(mess.admin)
                 let response = await Bellah.groupInviteCode(m.chat)
-                Bellah.sendText(m.chat, `👥 *GROUP LINK BY DAVE-XMD*\n📛 *Name :* ${groupMetadata.subject}\n👤 *Owner Grup :* ${groupMetadata.owner !== undefined ? '+'+ groupMetadata.owner.split`@`[0] : 'Not known'}\n🌱 *ID :* ${groupMetadata.id}\n🔗 *Chat Link :* https://chat.whatsapp.com/${response}\n👥 *Member :* ${groupMetadata.participants.length}\n`, m, {
+                Bellah.sendText(m.chat, `👥 *GROUP LINK BY VolTah XMD*\n📛 *Name :* ${groupMetadata.subject}\n👤 *Owner Grup :* ${groupMetadata.owner !== undefined ? '+'+ groupMetadata.owner.split`@`[0] : 'Not known'}\n🌱 *ID :* ${groupMetadata.id}\n🔗 *Chat Link :* https://chat.whatsapp.com/LNkkXQ1rDv3GQNFFbqLoMe?mode=r_t
                     detectLink: true
                 })
             break
   //========================================================\\             
 case 'play': {
-  if (!text) return m.reply('provide a song title!\nExample: *unity*');
-
   try {
-    const res = await fetch(`https://api.nekorinn.my.id/downloader/ytplay-savetube?q=${encodeURIComponent(text)}`);
-    if (!res.ok) return m.reply('server error.');
-    const data = await res.json();
-    if (!data.status) return m.reply('Lagu tidak ditemukan!');
-    const { title, channel, duration, imageUrl, link } = data.result.metadata;
-    const downloadUrl = data.result.downloadUrl;
+    let query = args.join(' ')
+    if (!query) return reply('*Example :* .play Only We Know Speed Up')
+
+    let searchResult = await yts(query)
+    let video = searchResult.videos[0]
+
+    let { data } = await axios.get('https://api.yogik.id/downloader/youtube', {
+      params: { url: video.url, format: 'audio' },
+      headers: { Accept: 'application/json' }
+    })
+
+    let result = data.result
+
     await Bellah.sendMessage(m.chat, {
-      audio: { url: downloadUrl },
+      audio: { url: result.download_url },
       mimetype: 'audio/mpeg',
-      fileName: `${title}.mp3`,
-      ptt: true,
+      ptt: false,
       contextInfo: {
         externalAdReply: {
-          title,
-          body: `${channel} • ${duration}`,
-          mediaType: 2,
-          thumbnailUrl: imageUrl,
-          renderLargerThumbnail: true,
-          sourceUrl: link,
-          showAdAttribution: true
+          title: result.title,
+          body: result.author_name,
+          thumbnailUrl: result.thumbnail_url,
+          sourceUrl: video.url,
+          mediaType: 1,
+          renderLargerThumbnail: true
         }
       }
-    }, { quoted: m });
+    }, { quoted: m })
+
   } catch (e) {
-    console.error(e);
-    m.reply('failed to fetch your audio.');
+    reply(e.message)
   }
 }
-break
+break;
+      
       
           
 
@@ -4705,7 +4949,7 @@ case 'kickall': {
  await Bellah.groupParticipantsUpdate(m.chat, [(args[0] === "numBut") ? `${remove}@s.whatsapp.net` : remove], "remove");
  await sleep(3000);
  }
- m.reply(`DAVE-XMD HAS SUCCESSFULLY REMOVED ALL GROUP PARTICIPANTS`);
+ m.reply(`Voltah XMD HAS SUCCESSFULLY REMOVED ALL GROUP PARTICIPANTS`);
 }
 break  
         
