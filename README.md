@@ -1,12 +1,18 @@
-# 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 (Gifteddavemd)
+<h1 align="center">𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 • Official WhatsApp Bot</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+𝐃𝐀𝐕𝐄-𝐗𝐌𝐃;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+gifteddevsmd;RELEASED+24.03.2025" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://files.catbox.moe/vr83h2.jpg" width="250" alt="𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 Logo" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&pause=1000&color=12F7F7&center=true&width=900&height=70&lines=𝐃𝐀𝐕𝐄-𝐗𝐌𝐃+IS+NOW+LIVE;MULTI-DEVICE+BOT+BY+gifteddevsmd" alt="Typing SVG" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://github.com/gifteddevsmd">
-    <img title="Author" src="https://github.com/gifteddevsmd.png?size=100" width="100" height="100">
+    <img src="https://github.com/gifteddevsmd.png" width="100" height="100" alt="gifteddevsmd GitHub Profile" />
   </a>
 </p>
 
@@ -30,56 +36,57 @@
 
 ---
 
-### ⚠️ Polite Notice
+## ⚠️ Polite Notice
 
-*This Repo is not Obfuscated, and any errors or bugs after modifications are not the responsibility of the original author.*
+> This repo is not obfuscated. Any bugs or crashes due to editing or re-uploading are your own responsibility. The owner may not offer support for recoded versions.
 
 ---
 
-## ✅ 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 Setup
+## 🔧 Setup Instructions
 
-1. > ⭐ Star the repo and click [FORK](https://github.com/gifteddevsmd/DAVE-XMD/fork)
+> Click the **Fork** button and star this repo:
 
-2. > **Deployment Site (Heroku Panel or Vercel)**
+[🔗 Fork on GitHub](https://github.com/gifteddevsmd/DAVE-XMD/fork)
 
-<a href='https://vol-tah-web.vercel.app/' target="_blank">
-  <img alt='Deploy 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃' src='https://img.shields.io/badge/Deploy%20𝐃𝐀𝐕𝐄--𝐗𝐌𝐃-orange?style=for-the-badge&logo=vercel&logoColor=black'/>
-</a>
+> Zip files, deploy panels, and tutorials are included below.
 
-3. > **Bot File (Panel Deployment)**
+---
+
+## 🔽 Download Bot Files
 
 <a href='https://www.mediafire.com/file/apl94yye6rc7jbh/BELLAH_XMD_V2.zip/file' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Zip%20Here-darkpink?style=for-the-badge&logo=mediafire&logoColor=black'/>
+  <img alt='Download ZIP' src='https://img.shields.io/badge/Get%20Bot%20ZIP-darkpink?style=for-the-badge&logo=mediafire&logoColor=black'/>
 </a>
 
 ---
 
 ## 🎓 Tutorials
 
-- A. Render: [Watch Tutorial](https://youtu.be/bj59ynAaa3Y?si=cJpQPr1XaP7q-tDF)
-- B. Scalingo (Soon): [`Coming Soon`](https://youtu.be/XAEvjrFIoiw?si=zdVjdtav3ZtsjTRz)
-- C. Panel Deployment:
-  - [Tutorial One](https://youtu.be/ajaddRsPvsw?si=-UKgE092fNXRb_mm)
-  - [Tutorial Two](https://youtu.be/bBOCsPcQ7vA?si=U4bQBAp7GUEWGuF2)
+- 📽️ [Render Deploy Tutorial](https://youtu.be/bj59ynAaa3Y?si=cJpQPr1XaP7q-tDF)
+- ⚙️ [Panel Tutorial 1](https://youtu.be/ajaddRsPvsw?si=-UKgE092fNXRb_mm)
+- ⚙️ [Panel Tutorial 2](https://youtu.be/bBOCsPcQ7vA?si=U4bQBAp7GUEWGuF2)
+- 🔧 [Scalingo Setup — Coming Soon](https://youtu.be/XAEvjrFIoiw?si=zdVjdtav3ZtsjTRz)
 
 ---
 
-## 👥 Credits
+## 🙏 Thanks To
 
 <div align="center">
 
 | ![gifteddevsmd](https://github.com/gifteddevsmd.png?size=100) |
 |:--:|
-| [`gifteddevsmd`](https://github.com/gifteddevsmd) — Author, Owner, Developer |
+| [`gifteddevsmd`](https://github.com/gifteddevsmd) — Creator & Maintainer |
 
 </div>
 
 Special thanks:
-- [`Tylor`](https://github.com/Dark-Xploit) — Setup & Buildpacks
+- [`Tylor`](https://github.com/Dark-Xploit) — Heroku Setup & Buildpacks
 
 ---
 
-## 📦 Version
+## 📦 Version Info
 
 - Version: `v2.0.0`
-- © 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 — 2025
+- Year: `2025`
+- License: MIT (Free Use)
+- © 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 — All Rights Reserved
