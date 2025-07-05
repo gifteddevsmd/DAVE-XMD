@@ -2,14 +2,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BELLAH-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GIDDY+TENNOR;RELEASED+24.03.2025" alt="Typing SVG" /></a>
 <p align="center">
-<a href="https://github.com/gifteddevsmd"><img title="Author" src="https://files.catbox.moe/t3gs2m.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/gifteddaves"><img title="Author" src="https://files.catbox.moe/t3gs2m.jpg?style=for-the-badge&logo=github"></a>
 
 <p align="center">
-<a href="https://github.com/gifteddevsmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddevsmd?color=blue&style=flat-square"></a>
-<a href="https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?color=blue&style=flat-square"></a>
-<a href="https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?color=blue&style=flat-square"></a>
-<a href="https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃/"><img title="Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?style=flat-square&color=green"></a>
-<a href="https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/gifteddaves/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddevsmd?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddaves/DAVE-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddaves/DAVE-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddaves/DAVE-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?style=flat-square&color=green"></a>
+<a href="https://github.com/gifteddaves/DAVE-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -22,7 +22,7 @@
 
 
   ## VolTah Xmd Set up✅
-  1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/gifteddevsmd/bellah-XMD/fork)***
+  1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/gifteddaves/bellah-XMD/fork)***
       
       
 
@@ -80,9 +80,9 @@ Thanks to...
 
 <div align="center">
 
-| [![GiddyTennor](https://github.com/gifteddevsmd.png?lenght=50width=50)](https://github.com/gifteddevsmd)|
+| [![GiddyTennor](https://github.com/gifteddaves.png?lenght=50width=50)](https://github.com/gifteddaves)|
 |----|
-* [`GiddyTennor`](https://github.com/gifteddevsmd) ***Author, Owner, Developer***
+* [`GiddyTennor`](https://github.com/gifteddaves) ***Author, Owner, Developer***
 
 
 * [`Tylor `](https://github.com/Dark-Xploit) ***Setting up heroku deployment and Whiskey baiyleys***

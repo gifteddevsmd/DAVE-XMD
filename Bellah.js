@@ -1571,7 +1571,7 @@ if (Owner && quotedMessage && textL.startsWith(prefix + "save") && m.quoted.chat
                     `https://api.heroku.com/apps/${appname}/builds`,
                     {
                         source_blob: {
-                            url: "https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃/tarball/main",
+                            url: "https://github.com/gifteddaves/DAVE-XMD/tarball/main",
                         },
                     },
                     {
@@ -4573,7 +4573,7 @@ case 'block':
 > ${repoData.forks_count}
 
 *GITHUB LINK:* 
-https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃
+https://github.com/gifteddaves/DAVE-XMD
 
 @${me.split("@")[0]}👋, Star ⭐ fork and deploy my repo 🤭
 
