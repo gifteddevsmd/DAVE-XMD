@@ -3,10 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +𝐃𝐀𝐕𝐄-𝐗𝐌𝐃;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+gifteddaves;RELEASED+24.03.2025" alt="Typing SVG" /></a>
 
 <p align="center">
-<a href="https://github.com/gifteddaves"><img title="Author" src="https://files.catbox.moe/vr83h2.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/gifteddeves"><img title="Author" src="https://files.catbox.moe/vr83h2.jpg?style=for-the-badge&logo=github"></a>
 
 <p align="center">
-<a href="https://github.com/gifteddaves/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddaves?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddavesmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddavesmd?color=blue&style=flat-square"></a>
 <a href="https://github.com/gifteddevsmd/DAVE-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/DAVE-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/gifteddevsmd/DAVE-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/DAVE-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/gifteddevsmd/DAVE-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/DAVE-XMD?style=flat-square&color=green"></a>
