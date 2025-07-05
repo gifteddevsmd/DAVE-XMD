@@ -1,6 +1,6 @@
 services:
   - type: worker
-    name: 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃
+    name: DAVE-XMD
     env: docker
     region: Frankfurt
     plan: free
