@@ -2,14 +2,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BELLAH-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GIDDY+TENNOR;RELEASED+24.03.2025" alt="Typing SVG" /></a>
 <p align="center">
-<a href="https://github.com/Tennor-modz"><img title="Author" src="https://files.catbox.moe/t3gs2m.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/gifteddevsmd"><img title="Author" src="https://files.catbox.moe/t3gs2m.jpg?style=for-the-badge&logo=github"></a>
 
 <p align="center">
-<a href="https://github.com/Tennor-modz/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tennor-modz?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tennor-modz/Bellah-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tennor-modz/Bellah-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Tennor-modz/Bellah-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/gifteddevsmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddevsmd?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/Bellah-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/Bellah-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/Bellah-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/Bellah-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/Bellah-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/Bellah-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/gifteddevsmd/Bellah-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -22,7 +22,7 @@
 
 
   ## VolTah Xmd Set up✅
-  1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/Tennor-modz/bellah-XMD/fork)***
+  1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/gifteddevsmd/bellah-XMD/fork)***
       
       
 
@@ -80,9 +80,9 @@ Thanks to...
 
 <div align="center">
 
-| [![GiddyTennor](https://github.com/Tennor-modz.png?lenght=50width=50)](https://github.com/Tennor-modz)|
+| [![GiddyTennor](https://github.com/gifteddevsmd.png?lenght=50width=50)](https://github.com/gifteddevsmd)|
 |----|
-* [`GiddyTennor`](https://github.com/Tennor-modz) ***Author, Owner, Developer***
+* [`GiddyTennor`](https://github.com/gifteddevsmd) ***Author, Owner, Developer***
 
 
 * [`Tylor `](https://github.com/Dark-Xploit) ***Setting up heroku deployment and Whiskey baiyleys***

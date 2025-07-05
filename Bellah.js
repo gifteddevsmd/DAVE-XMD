@@ -1265,7 +1265,7 @@ break*/
                 case 'menu':
                       case 'voltah': {
     let credits = `
-┏━━⬣ ⌜\`Voltah Xmd\`⌟
+┏━━⬣ ⌜\`𝐃𝐀𝐕𝐄-𝐗𝐌𝐃\`⌟
 │ ─≽ *Creator*: *𝐆𝐢𝐝𝐝𝐲 𝐓𝐞𝐧𝐧𝐨𝐫*
 │ ─≽ *Bot Name* :${global.botname}
 │ ─≽ *Name* : ${pushname}
@@ -1474,7 +1474,7 @@ await Bellah.sendMessage(m.chat, {
       contextInfo: {
       externalAdReply: {
       showAdAttribution: true,
-      title: "Voltah Xmd",
+      title: "𝐃𝐀𝐕𝐄-𝐗𝐌𝐃",
       body: "Giddy tennor",
       thumbnailUrl: 'https://url.bwmxmd.online/Adams.s0tso4x6.jpg',
       sourceUrl: "https://tiktok.com",
@@ -1571,7 +1571,7 @@ if (Owner && quotedMessage && textL.startsWith(prefix + "save") && m.quoted.chat
                     `https://api.heroku.com/apps/${appname}/builds`,
                     {
                         source_blob: {
-                            url: "https://github.com/Tennor-modz/Bellah-Xmd/tarball/main",
+                            url: "https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃/tarball/main",
                         },
                     },
                     {
@@ -2072,7 +2072,7 @@ case 'bot' : {
 m.reply(`VolTah Xmd
 
 Status Bot : *Online*✅
-Developer : *Giddy Tennor*
+Developer : *gifteddaves*
 Mode Bot : *${Bellah.public ? "Public" : "Self"}*
 `)
     buttons: [
@@ -2418,7 +2418,7 @@ Bellah.chatModify({ delete: true, lastMessages: [{ key: m.key, messageTimestamp:
 break     
   //========================================================\\                 
 case 'fancy': case 'ctext': case 'createtext': case 'teks': {
-  if (!q) return m.reply('Format invalid!\nExample: fancy Giddy Tennor');
+  if (!q) return m.reply('Format invalid!\nExample: fancy gifteddaves');
   const axios = require('axios');
   const cheerio = require('cheerio');
 
@@ -4559,7 +4559,7 @@ case 'block':
                 case "repo": {
   try {
     let me = m.sender;
- const response = await axios.get(`https://api.github.com/repos/Tennor-modz/Bellah-Xmd`)
+ const response = await axios.get(`https://api.github.com/repos/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃`)
     if (response.status === 200) {
       const repoData = response.data
       const repos = `
@@ -4573,7 +4573,7 @@ case 'block':
 > ${repoData.forks_count}
 
 *GITHUB LINK:* 
-https://github.com/Tennor-modz/Bellah-Xmd
+https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃
 
 @${me.split("@")[0]}👋, Star ⭐ fork and deploy my repo 🤭
 
@@ -4671,7 +4671,7 @@ break;
             //========================================================\\    
                 case 'uptime': { 
 
-         reply (`━━━━━━━━━━━━━━━━━\n\◉‿◉Welcome ${m.pushName}\n\━━━━━━━━━━━━━━━━━\n\*Voltah Xmd has been running for*  : ${runtime(process.uptime())} \n\━━━━━━━━━━━━━━━━━`); 
+         reply (`━━━━━━━━━━━━━━━━━\n\◉‿◉Welcome ${m.pushName}\n\━━━━━━━━━━━━━━━━━\n\*𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 has been running for*  : ${runtime(process.uptime())} \n\━━━━━━━━━━━━━━━━━`); 
 }
 break;
           
@@ -4949,7 +4949,7 @@ case 'kickall': {
  await Bellah.groupParticipantsUpdate(m.chat, [(args[0] === "numBut") ? `${remove}@s.whatsapp.net` : remove], "remove");
  await sleep(3000);
  }
- m.reply(`Voltah XMD HAS SUCCESSFULLY REMOVED ALL GROUP PARTICIPANTS`);
+ m.reply(`𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 HAS SUCCESSFULLY REMOVED ALL GROUP PARTICIPANTS`);
 }
 break  
         

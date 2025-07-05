@@ -1,6 +1,6 @@
 services:
   - type: worker
-    name: Bellah-Xmd
+    name: 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃
     env: docker
     region: Frankfurt
     plan: free

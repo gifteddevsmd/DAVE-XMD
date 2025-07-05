@@ -227,7 +227,7 @@ https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H
 
 			await Bellah.newsletterFollow(channelId);
       /* const CFonts = require('cfonts');
-CFonts.say('BELLAH XMD V2', {
+CFonts.say('𝐃𝐀𝐕𝐄-𝐗𝐌𝐃', {
   font: 'tiny',              // Jenis font
   align: 'left',            // Posisi teks (left, center, right)
   colors: ['blue', 'white'],    // Warna teks
@@ -241,8 +241,8 @@ CFonts.say('BELLAH XMD V2', {
      
 
             console.log(color(`\n${global.themeemoji} YT CHANNEL: GiddyNokia`,'magenta'))
-            console.log(color(`${global.themeemoji} GITHUB: Tennor-modz `,'magenta'))
-            console.log(color(`${global.themeemoji} INSTAGRAM: Giddytennor `,'magenta'))
+            console.log(color(`${global.themeemoji} GITHUB: gifteddevsmd `,'magenta'))
+            console.log(color(`${global.themeemoji} INSTAGRAM: gifteddaves `,'magenta'))
             console.log(color(`${global.themeemoji} WA NUMBER: ${global.owner}`,'magenta'))
             console.log(color(`${global.themeemoji} RECODE: ${global.wm}\n`,'magenta'))
             await delay(1000 * 2) 
