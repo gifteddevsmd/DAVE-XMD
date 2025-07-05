@@ -1,6 +1,6 @@
 //base by DGXeon
-//recode by GIDDY TENNOR 
-//YouTube: @GIDDYTENNOR
+//recode by GIFTED DAVE 
+//YouTube: @davlodavlo19
 
 
 const fs = require('fs')
@@ -10,22 +10,22 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 global.SESSION_ID = process.env.SESSION_ID || 'Bellah~m2xDSJAS#cXaReUMFXZBxDu0kZ8ck_cgjIEBgC2_-AUY-3go8qwM' 
 //owmner v card
-global.ytname = "YT: GIDDYTENNOR" //ur yt chanel name
-global.socialm = "IG: @GIDDYTENNOR" //ur github or insta name
+global.ytname = "YT: davlodavlo19" //ur yt chanel name
+global.socialm = "IG: @_gifted_dave" //ur github or insta name
 global.location = "Kenya" //ur location
 
 //new
-global.botname = process.env.BOT_NAME ||'𝐁𝐞𝐥𝐥𝐚𝐡 𝐗𝐦𝐝' //enter your  bot name here
-global.ownernumber = process.env.OWNER_NUMBER ||'254104245659' //ur owner number
-global.ownername = '© TENNOMODZ' //ur owner name
-global.websitex = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
-global.wagc = "https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
+global.botname = process.env.BOT_NAME ||'DAVE-XMD' //enter your  bot name here
+global.ownernumber = process.env.OWNER_NUMBER ||'254784517274' //ur owner number
+global.ownername = '© GIFTEDDAVES' //ur owner name
+global.websitex = "https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k" //"https://chat.whatsapp.com/FCwOCmmS3unCOA5w0ehWfC?mode=r_t"
+global.wagc = "https://chat.whatsapp.com/FCwOCmmS3unCOA5w0ehWfC?mode=r_t" //"https://chat.whatsapp.com/FCwOCmmS3unCOA5w0ehWfC?mode=r_t"
 global.themeemoji = '🪀'
-global.wm = "GIDDY TENNOR"
-global.botscript = 'https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D' //'https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES' //script link
-global.packname = process.env.PACK_NAME ||"VolTah Xmd" //enter your stickers author name here
-global.author = "Giddy-Tennor"
-global.creator = "254703726139@s.whatsapp.net"
+global.wm = "GIFTED DAVE"
+global.botscript = 'https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k' //'https://chat.whatsapp.com/FCwOCmmS3unCOA5w0ehWfC?mode=r_t' //script link
+global.packname = process.env.PACK_NAME ||"DAVE-XMD" //enter your stickers author name here
+global.author = "Gifted-Dave"
+global.creator = "254784517274@s.whatsapp.net"
 global.xprefix = process.env.BOT_PREFIX ||'.'
 global.hituet = 0
 
@@ -45,7 +45,7 @@ const herokuapi = process.env.HEROKU_API;
 global.mess = {
 	limit: 'Your limit is up <\>',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-	owner: 'Bellah Xmd owner only<\>',
+	owner: 'DAVE-XMD owner only<\>',
     admin: 'Bot is not admin<\>',
     group: 'feature for group only<\>',
     done: 'Done ✓',
