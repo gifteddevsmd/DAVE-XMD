@@ -6,10 +6,10 @@
 
 <p align="center">
 <a href="https://github.com/gifteddevsmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddevsmd?color=blue&style=flat-square"></a>
-<a href="https://github.com/gifteddevsmd/Bellah-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/Bellah-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/gifteddevsmd/Bellah-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/Bellah-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/gifteddevsmd/Bellah-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/Bellah-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/gifteddevsmd/Bellah-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃/"><img title="Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?style=flat-square&color=green"></a>
+<a href="https://github.com/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 
