@@ -1,94 +1,69 @@
-# BELLAH-XMD V2 (VolTah Xmd) is here
+# 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 GIFTED-DAVE-Md-v1 )
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BELLAH-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GIDDY+TENNOR;RELEASED+24.03.2025" alt="Typing SVG" /></a>
-<p align="center">
-<a href="https://github.com/gifteddaves"><img title="Author" src="https://files.catbox.moe/t3gs2m.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +𝐃𝐀𝐕𝐄-𝐗𝐌𝐃;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+gifteddaves;RELEASED+24.03.2025" alt="Typing SVG" /></a>
 
 <p align="center">
-<a href="https://github.com/gifteddevsmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddevsmd?color=blue&style=flat-square"></a>
-<a href="https://github.com/gifteddevsmd/DAVE-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddaves"><img title="Author" src="https://files.catbox.moe/vr83h2.jpg?style=for-the-badge&logo=github"></a>
+
+<p align="center">
+<a href="https://github.com/gifteddaves/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddaves?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/DAVE-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/DAVE-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/gifteddevsmd/DAVE-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/DAVE-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/gifteddevsmd/DAVE-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/DAVE-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/gifteddavesmd/DAVE-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/gifteddevsmd/DAVE-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
-
-
 
 `Polite Notice`
 
 * *`This Repo is not Obfuscated, And therefore any mistakes or errors persists due to recoding        owner will not be in Touch with it`*
 
+---
 
+## 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 Setup ✅
 
+1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/gifteddevsmd/DAVE-XMD/fork)***
 
-  ## VolTah Xmd Set up✅
-  1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/gifteddavesmd/DAVE-XMD/fork)***
-      
-      
-
-  2.  > **Deployment Site(Heroku $ Panel)**
+2.  > **Deployment Site (Heroku $ Panel)**
 
 <a href='https://vol-tah-web.vercel.app/' target="_blank">
-  <img alt='DAVE-XMD Deploy' src='https://img.shields.io/badge/Deploy%20VolTah%20Xmd-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 Deploy' src='https://img.shields.io/badge/Deploy%20𝐃𝐀𝐕𝐄-𝐗𝐌𝐃-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
-
-
-
-3.   > **Bot File(Panel Deployment)**
+3.   > **Bot File (Panel Deployment)**
 
 <a href='https://www.mediafire.com/file/apl94yye6rc7jbh/BELLAH_XMD_V2.zip/file' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Zip%20Here-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
+---
 
-*𝗧𝘂𝗧𝗼𝗿𝗶𝗮𝗹𝘀*
+## *𝗧𝘂𝗧𝗼𝗿𝗶𝗮𝗹𝘀*
 
-A.Render [`Tutorial`](https://youtu.be/bj59ynAaa3Y?si=cJpQPr1XaP7q-tDF)
+A. Render [`Tutorial`](https://youtu.be/bj59ynAaa3Y?si=cJpQPr1XaP7q-tDF)
 
+B. Scalingo [`Soon`](https://youtu.be/XAEvjrFIoiw?si=zdVjdtav3ZtsjTRz)
 
-
-
-
-
-
-
-B.Scalingo  [`Soon`](hhttps://youtu.be/XAEvjrFIoiw?si=zdVjdtav3ZtsjTRz).
-
-
-
-
-
-
-
-
-
-C.Panel deployment  [`Tutorial one`](https://youtu.be/ajaddRsPvsw?si=-UKgE092fNXRb_mm)
-
-
-
+C. Panel deployment  
+[`Tutorial one`](https://youtu.be/ajaddRsPvsw?si=-UKgE092fNXRb_mm)  
 [`Tutorial two`](https://youtu.be/bBOCsPcQ7vA?si=U4bQBAp7GUEWGuF2)
 
+---
 
-
-
-# Regards 
+# Regards
 
 Thanks to...
 
 <div align="center">
 
-| [![Gifted Dave](https://github.com/gifteddevsmd.png?lenght=50width=50)](https://github.com/gifteddavesmd)|
+| [![gifteddaves](https://github.com/gifteddaves.png?size=100)](https://github.com/gifteddaves) |
 |----|
-* [`Gifted Dave`](https://github.com/gifteddavesmd) ***Author, Owner, Developer***
+* [`gifteddaves`](https://github.com/gifteddaves) ***Author, Owner, Developer***
 
+* [`Tylor`](https://github.com/Dark-Xploit) ***Setting up heroku deployment and Whiskey Baileys***
 
-* [`Tylor `](https://github.com/Dark-Xploit) ***Setting up heroku deployment and Whiskey baiyleys***
+</div>
 
-
-> Version 2.0.0
-
-
-©𝗩𝗼𝗹𝗧𝗮𝗵 𝗫𝗺𝗱 - 𝗕𝗲𝗹𝗹𝗮𝗵 𝗫𝗺𝗱 𝗩2 2025
+> Version 2.0.0  
+© 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 — 2025
