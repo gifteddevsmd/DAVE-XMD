@@ -1,7 +1,7 @@
 {
-    "name": "BELLAH-BotS-XMD",
+    "name": "DAVE-XMD",
     "version": "1.0.0",
-    "description": "Whatsapp Bot By Giddy Tennor",
+    "description": "Whatsapp Bot By Gifted Dave",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -13,7 +13,7 @@
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "GiddyTennor",
+    "author": "Gifted Dave",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/baileys": "^5.0.0",
