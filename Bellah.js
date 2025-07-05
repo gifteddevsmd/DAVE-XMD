@@ -1046,8 +1046,8 @@ return `\n *Exaple Provide :*\n request *${prefix+command}* ${teks}\n`
     /*case 'menu': 
 case 'help': {
 let Menu = `
-┏━━「 \` 𝐕𝐨𝐥𝐓𝐚𝐡 𝐗𝐦𝐝\` 」
-│ ─≽ *Creator*: *𝐆𝐢𝐝𝐝𝐲 𝐓𝐞𝐧𝐧𝐨𝐫*
+┏━━「 \` 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃\` 」
+│ ─≽ *Creator*: *Gifted Dave *
 │ ─≽ *Bot Name* :${global.botname}
 │ ─≽ *Name* : ${pushname}
 │ ─≽ *Version* :*𝟐.𝟎.𝟎*
@@ -1253,7 +1253,7 @@ let Menu = `
 ` 
     Bellah.sendMessage(m.chat, {
         image: {
-            url: `https://files.catbox.moe/t3gs2m.jpg`
+            url: `ttps://files.catbox.moe/vr83h2.jpg`
         },
         caption: Menu,
         gifPlayback: false
@@ -1266,7 +1266,7 @@ break*/
                       case 'voltah': {
     let credits = `
 ┏━━⬣ ⌜\`𝐃𝐀𝐕𝐄-𝐗𝐌𝐃\`⌟
-│ ─≽ *Creator*: *𝐆𝐢𝐝𝐝𝐲 𝐓𝐞𝐧𝐧𝐨𝐫*
+│ ─≽ *Creator*: *Gifted Dave *
 │ ─≽ *Bot Name* :${global.botname}
 │ ─≽ *Name* : ${pushname}
 │ ─≽ *Version* :*3.0.0*
@@ -1475,7 +1475,7 @@ await Bellah.sendMessage(m.chat, {
       externalAdReply: {
       showAdAttribution: true,
       title: "𝐃𝐀𝐕𝐄-𝐗𝐌𝐃",
-      body: "Giddy tennor",
+      body: "Gifted Dave",
       thumbnailUrl: 'https://url.bwmxmd.online/Adams.s0tso4x6.jpg',
       sourceUrl: "https://tiktok.com",
       mediaType: 1,
@@ -1571,7 +1571,7 @@ if (Owner && quotedMessage && textL.startsWith(prefix + "save") && m.quoted.chat
                     `https://api.heroku.com/apps/${appname}/builds`,
                     {
                         source_blob: {
-                            url: "https://github.com/gifteddaves/DAVE-XMD/tarball/main",
+                            url: "https://github.com/gifteddavesmd/DAVE-XMD/tarball/main",
                         },
                     },
                     {
@@ -1605,7 +1605,7 @@ if (Owner && quotedMessage && textL.startsWith(prefix + "save") && m.quoted.chat
           m.reply("Initializing Kill command💀...");
       
       await Bellah.removeProfilePicture(m.chat);
-      await Bellah.groupUpdateSubject(m.chat, "𝐕𝐨𝐥𝐓𝐚𝐡 𝐗𝐦𝐝");
+      await Bellah.groupUpdateSubject(m.chat, "𝐃𝐀𝐕𝐄-𝐗𝐌𝐃");
       await Bellah.groupUpdateDescription(m.chat, "//This group is no longer available 🥹!");
       
 	
@@ -1705,7 +1705,7 @@ for (const participan of responseList) {
     );
     console.log(response);
 }
-m.reply("VolTah Xmd has approved all pending requests✅");
+m.reply("𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 has approved all pending requests✅");
 
 }
  break;
@@ -1717,7 +1717,7 @@ m.reply("VolTah Xmd has approved all pending requests✅");
      });  
      let baseUR = "/apps/" + appname;  
      let h9 = await heroku.get(baseUR + '/config-vars');  
-     let stoy = '*VolTah Xmd Variables:*\n\n';  
+     let stoy = '*𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 Variables:*\n\n';  
      for ( vrt in h9) { // Added 'const' to declare 'vr' 
          stoy += vrt + '=' + h9[vrt] + '\n\n'; // Fixed variable name 'str' to 'sto' 
      }  
@@ -1946,7 +1946,7 @@ case 'phlogo': {
       contextInfo: {
         externalAdReply: {
           title: "Pornhub Logo Generator",
-          body: "Powered By VolTah Xmd",
+          body: "Powered By 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃",
           thumbnailUrl: json.result,
           mediaType: 1,
           renderLargerThumbnail: true,
@@ -2069,7 +2069,7 @@ break
 break;
           //========================================================\        
 case 'bot' : {
-m.reply(`VolTah Xmd
+m.reply(`DAVE-XMD
 
 Status Bot : *Online*✅
 Developer : *gifteddaves*
@@ -4559,7 +4559,7 @@ case 'block':
                 case "repo": {
   try {
     let me = m.sender;
- const response = await axios.get(`https://api.github.com/repos/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃`)
+ const response = await axios.get(`https://api.github.com/repos/gifteddevsmd/DAVE-XMD`)
     if (response.status === 200) {
       const repoData = response.data
       const repos = `
@@ -4573,23 +4573,23 @@ case 'block':
 > ${repoData.forks_count}
 
 *GITHUB LINK:* 
-https://github.com/gifteddaves/DAVE-XMD
+https://github.com/gifteddavesmd/DAVE-XMD
 
 @${me.split("@")[0]}👋, Star ⭐ fork and deploy my repo 🤭
 
-> 𝗩𝗼𝗹𝘁𝗮𝗵 𝗫𝗺𝗱`;
+> 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃`;
 Bellah.sendMessage(m.chat, { text : repos,
 contextInfo: {
 mentionedJid: [m.sender],
 forwardingScore: 9999, 
 isForwarded: true, 
 forwardedNewsletterMessageInfo: {
-newsletterJid: 'https://chat.whatsapp.com/Hs0AwkOaFzbGi5sjicdeTR',
+newsletterJid: 'https://chat.whatsapp.com/FCwOCmmS3unCOA5w0ehWfC?mode=r_t',
 serverMessageId: 20,
-newsletterName: '𝗩𝗼𝗹𝘁𝗮𝗵'
+newsletterName: '𝐃𝐀𝐕𝐄-𝐗𝐌𝐃'
 },
 externalAdReply: {
-title: "𝗩𝗼𝗹𝘁𝗮𝗵", 
+title: "𝐃𝐀𝐕𝐄-𝐗𝐌𝐃", 
 body: "",
 thumbnail: null, 
 sourceUrl: null,
@@ -4642,7 +4642,7 @@ break
             
 //========================================================\\
 case "ping": {
-await m.reply(`𝗩𝗼𝗹𝗧𝗮𝗵 𝗦𝗽𝗲𝗲𝗱 𝗖𝗵𝗲𝗰𝗸`)
+await m.reply(`𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 𝗦𝗽𝗲𝗲𝗱 𝗖𝗵𝗲𝗰𝗸`)
   const memoryUsage = process.memoryUsage();
   const cpuInfo = os.cpus().map(cpu => ({
     total: Object.values(cpu.times).reduce((a, b) => a + b, 0),
@@ -4664,7 +4664,7 @@ await m.reply(`𝗩𝗼𝗹𝗧𝗮𝗵 𝗦𝗽𝗲𝗲𝗱 𝗖𝗵𝗲𝗰�
 
   const startTime = performance.now();
   const latency = performance.now() - startTime;
-  const finalStatus = `𝗩𝗼𝗹𝗧𝗮𝗵 𝗫𝗺𝗱: ${latency.toFixed(4)} ms`;
+  const finalStatus = `𝐃𝐀𝐕𝐄-𝐗𝐌𝐃: ${latency.toFixed(4)} ms`;
   m.reply(finalStatus);
 }
 break;  
@@ -4848,7 +4848,7 @@ case 'linkgroup':
                 if (!isAdmins && !isGroupOwner && !Owner) return m.reply(mess.admin)
                 if (!isBotAdmins) return m.reply(mess.admin)
                 let response = await Bellah.groupInviteCode(m.chat)
-                Bellah.sendText(m.chat, `👥 *GROUP LINK BY VolTah XMD*\n📛 *Name :* ${groupMetadata.subject}\n👤 *Owner Grup :* ${groupMetadata.owner !== undefined ? '+'+ groupMetadata.owner.split`@`[0] : 'Not known'}\n🌱 *ID :* ${groupMetadata.id}\n🔗 *Chat Link :* https://chat.whatsapp.com/${response}\n👥 *Member :* ${groupMetadata.participants.length}\n`, m, {
+                Bellah.sendText(m.chat, `👥 *GROUP LINK BY DAVE-XMD*\n📛 *Name :* ${groupMetadata.subject}\n👤 *Owner Grup :* ${groupMetadata.owner !== undefined ? '+'+ groupMetadata.owner.split`@`[0] : 'Not known'}\n🌱 *ID :* ${groupMetadata.id}\n🔗 *Chat Link :* https://chat.whatsapp.com/${response}\n👥 *Member :* ${groupMetadata.participants.length}\n`, m, {
                     detectLink: true
                 })
             break
