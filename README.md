@@ -1,92 +1,93 @@
-<h1 align="center">𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 • Official WhatsApp Bot</h1>
+# 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 is here
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +𝐃𝐀𝐕𝐄-𝐗𝐌𝐃;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GIFTED+DAVE;RELEASED+24.03.2025" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://github.com/gifteddevsmd"><img title="Author" src="https://files.catbox.moe/vr83h2.jpg?style=for-the-badge&logo=github"></a>
 
 <p align="center">
-  <img src="https://files.catbox.moe/vr83h2.jpg" width="250" alt="𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 Logo" />
+<a href="https://github.com/gifteddevsmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddevsmd?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/DAVE-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/DAVE-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/DAVE-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/DAVE-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/DAVE-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/DAVE-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/gifteddevsmd/DAVE-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&pause=1000&color=12F7F7&center=true&width=900&height=70&lines=𝐃𝐀𝐕𝐄-𝐗𝐌𝐃+IS+NOW+LIVE;MULTI-DEVICE+BOT+BY+gifteddevsmd" alt="Typing SVG" />
-</p>
 
----
 
-<p align="center">
-  <a href="https://github.com/gifteddevsmd">
-    <img src="https://github.com/gifteddevsmd.png" width="100" height="100" alt="gifteddevsmd GitHub Profile" />
-  </a>
-</p>
+`Polite Notice`
 
-<p align="center">
-  <a href="https://github.com/gifteddevsmd/followers">
-    <img title="Followers" src="https://img.shields.io/github/followers/gifteddevsmd?color=blue&style=flat-square">
-  </a>
-  <a href="https://github.com/gifteddevsmd/DAVE-XMD/stargazers/">
-    <img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/DAVE-XMD?color=blue&style=flat-square">
-  </a>
-  <a href="https://github.com/gifteddevsmd/DAVE-XMD/network/members">
-    <img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/DAVE-XMD?color=blue&style=flat-square">
-  </a>
-  <a href="https://github.com/gifteddevsmd/DAVE-XMD/">
-    <img title="Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/DAVE-XMD?style=flat-square&color=green">
-  </a>
-  <a href="https://github.com/gifteddevsmd/DAVE-XMD/graphs/commit-activity">
-    <img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-  </a>
-</p>
+* *`This Repo is not Obfuscated, And therefore any mistakes or errors persists due to recoding        owner will not be in Touch with it`*
 
----
 
-## ⚠️ Polite Notice
 
-> This repo is not obfuscated. Any bugs or crashes due to editing or re-uploading are your own responsibility. The owner may not offer support for recoded versions.
 
----
+  ## 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 Set up✅
+  1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/gifteddevsmd/DAVE-XMD/fork)***
+      
+      
 
-## 🔧 Setup Instructions
+  2.  > **Deployment Site(Heroku $ Panel)**
 
-> Click the **Fork** button and star this repo:
+<a href='https://davesxmd-03209e7609ef.herokuapp.com/' target="_blank">
+  <img alt='𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 Deploy' src='https://img.shields.io/badge/Deploy%20DAVE%20XMD-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
 
-[🔗 Fork on GitHub](https://github.com/gifteddevsmd/DAVE-XMD/fork)
 
-> Zip files, deploy panels, and tutorials are included below.
 
----
 
-## 🔽 Download Bot Files
+3.   > **Bot File(Panel Deployment)**
 
 <a href='https://www.mediafire.com/file/apl94yye6rc7jbh/BELLAH_XMD_V2.zip/file' target="_blank">
-  <img alt='Download ZIP' src='https://img.shields.io/badge/Get%20Bot%20ZIP-darkpink?style=for-the-badge&logo=mediafire&logoColor=black'/>
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Zip%20Here-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
+<br> 
 
----
 
-## 🎓 Tutorials
+*𝗧𝘂𝗧𝗼𝗿𝗶𝗮𝗹𝘀*
 
-- 📽️ [Render Deploy Tutorial](https://youtu.be/bj59ynAaa3Y?si=cJpQPr1XaP7q-tDF)
-- ⚙️ [Panel Tutorial 1](https://youtu.be/ajaddRsPvsw?si=-UKgE092fNXRb_mm)
-- ⚙️ [Panel Tutorial 2](https://youtu.be/bBOCsPcQ7vA?si=U4bQBAp7GUEWGuF2)
-- 🔧 [Scalingo Setup — Coming Soon](https://youtu.be/XAEvjrFIoiw?si=zdVjdtav3ZtsjTRz)
+A.Render [`Tutorial`](https://youtu.be/bj59ynAaa3Y?si=cJpQPr1XaP7q-tDF)
 
----
 
-## 🙏 Thanks To
+
+
+
+
+
+
+B.Scalingo  [`Soon`](hhttps://youtu.be/XAEvjrFIoiw?si=zdVjdtav3ZtsjTRz).
+
+
+
+
+
+
+
+
+
+C.Panel deployment  [`Tutorial one`](https://youtu.be/ajaddRsPvsw?si=-UKgE092fNXRb_mm)
+
+
+
+[`Tutorial two`](https://youtu.be/bBOCsPcQ7vA?si=U4bQBAp7GUEWGuF2)
+
+
+
+
+# Regards 
+
+Thanks to...
 
 <div align="center">
 
-| ![gifteddevsmd](https://github.com/gifteddevsmd.png?size=100) |
-|:--:|
-| [`gifteddevsmd`](https://github.com/gifteddevsmd) — Creator & Maintainer |
+* [`GiddyTennor`](https://github.com/Tennor-modz) ***Author
+  ***Setting up heroku deployment and Whiskey baiyleys***
 
-</div>
 
-Special thanks:
-- [`Tylor`](https://github.com/Dark-Xploit) — Heroku Setup & Buildpacks
+* [`Dave(owner `](https://github.com/gifteddevsmd) ***The original Developer,coder, wiseman***
 
----
 
-## 📦 Version Info
+> Version 1.0.0
 
-- Version: `v2.0.0`
-- Year: `2025`
-- License: MIT (Free Use)
-- © 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 — All Rights Reserved
+
+©𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 2025
