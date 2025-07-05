@@ -24,9 +24,7 @@
   ## 𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 Set up✅
   1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/gifteddevsmd/DAVE-XMD/fork)***
       
-      
-
-  2.  > **Deployment Site(Heroku $ Panel)**
+     2.  > **Deployment Site(Heroku,pair/session id site $ Panel)**
 
 <a href='https://davesxmd-03209e7609ef.herokuapp.com/' target="_blank">
   <img alt='𝐃𝐀𝐕𝐄-𝐗𝐌𝐃 Deploy' src='https://img.shields.io/badge/Deploy%20DAVE%20XMD-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
@@ -88,7 +86,7 @@ Thanks to...
   ***Setting up heroku deployment and Whiskey baiyleys***
 
 
-* [`Dave(owner `](https://github.com/gifteddevsmd) ***The original Developer,coder, wiseman***
+* [`Dave(owner) `](https://github.com/gifteddevsmd) ***The original Developer,coder, wiseman***
 
 
 > Version 1.0.0
