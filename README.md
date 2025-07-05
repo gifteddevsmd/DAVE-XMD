@@ -5,11 +5,11 @@
 <a href="https://github.com/gifteddaves"><img title="Author" src="https://files.catbox.moe/t3gs2m.jpg?style=for-the-badge&logo=github"></a>
 
 <p align="center">
-<a href="https://github.com/gifteddaves/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddevsmd?color=blue&style=flat-square"></a>
-<a href="https://github.com/gifteddaves/DAVE-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?color=blue&style=flat-square"></a>
-<a href="https://github.com/gifteddaves/DAVE-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?color=blue&style=flat-square"></a>
-<a href="https://github.com/gifteddaves/DAVE-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?style=flat-square&color=green"></a>
-<a href="https://github.com/gifteddaves/DAVE-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/gifteddevsmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddevsmd?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/DAVE-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/𝐃𝐀𝐕𝐄-𝐗𝐌𝐃?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/DAVE-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/DAVE-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/gifteddevsmd/DAVE-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/DAVE-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/gifteddavesmd/DAVE-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -22,14 +22,14 @@
 
 
   ## VolTah Xmd Set up✅
-  1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/gifteddaves/bellah-XMD/fork)***
+  1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/gifteddavesmd/DAVE-XMD/fork)***
       
       
 
   2.  > **Deployment Site(Heroku $ Panel)**
 
 <a href='https://vol-tah-web.vercel.app/' target="_blank">
-  <img alt='VolTah Deploy' src='https://img.shields.io/badge/Deploy%20VolTah%20Xmd-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='DAVE-XMD Deploy' src='https://img.shields.io/badge/Deploy%20VolTah%20Xmd-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
@@ -80,9 +80,9 @@ Thanks to...
 
 <div align="center">
 
-| [![GiddyTennor](https://github.com/gifteddaves.png?lenght=50width=50)](https://github.com/gifteddaves)|
+| [![Gifted Dave](https://github.com/gifteddevsmd.png?lenght=50width=50)](https://github.com/gifteddavesmd)|
 |----|
-* [`GiddyTennor`](https://github.com/gifteddaves) ***Author, Owner, Developer***
+* [`Gifted Dave`](https://github.com/gifteddavesmd) ***Author, Owner, Developer***
 
 
 * [`Tylor `](https://github.com/Dark-Xploit) ***Setting up heroku deployment and Whiskey baiyleys***
