@@ -33,9 +33,13 @@
 </a>
 <br> 
 
+---
 
+<a href="https://heroku.com/deploy?template=https://github.com/gifteddevsmd/DAVE-XMD" target="_blank">
+  <img src="https://img.shields.io/badge/Deploy%20to%20Heroku-6762A6?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku"/>
+</a>
 
-
+---
 3.   > **Bot File(Panel Deployment)**
 
 <a href='https://www.mediafire.com/file/apl94yye6rc7jbh/BELLAH_XMD_V2.zip/file' target="_blank">
