@@ -1,5 +1,5 @@
 //base by DGXeon (Xeon Bot Inc.)
-//Recode by Tennor 
+//Recode by Dave
 
 require('./settings')
 const makeWASocket = require("@whiskeysockets/baileys").default
@@ -62,7 +62,7 @@ require('./main.js')
 nocache('../main.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
 //------------------------------------------------------
-let phoneNumber = "254104245659"
+let phoneNumber = "254784517274"
 let owner = JSON.parse(fs.readFileSync('./src/data/role/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -200,9 +200,9 @@ try{
 			await delay(1999)
 			Bellah.sendMessage(Bellah.user.id, {
 image: {
-url: 'https://url.bwmxmd.online/Adams.s0tso4x6.jpg'
+url: 'https://files.catbox.moe/vr83h2.jpg'
 }, 
-caption: ` VolTah Xmd (Bellah Xmd V2) connected
+caption: ` DAVE-XMD connected
 > Bot prefix: ${global.xprefix}
 
 > Owner: ${global.ownernumber}
@@ -214,11 +214,11 @@ caption: ` VolTah Xmd (Bellah Xmd V2) connected
 > Mode:  ${Bellah.public ? '𝗣𝘂𝗯𝗹𝗶𝗰 ϟ' : '𝗣𝗿𝗶𝘃𝗮𝘁𝗲 ϟ'}
 
 *Follow support for updates*
-https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D
+https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k
 
 *Join Group*
 
-https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H
+https://chat.whatsapp.com/FCwOCmmS3unCOA5w0ehWfC?mode=r_t
 
 
 > Enjoy 😍`
@@ -242,11 +242,11 @@ CFonts.say('𝐃𝐀𝐕𝐄-𝐗𝐌𝐃', {
 
             console.log(color(`\n${global.themeemoji} YT CHANNEL: GiddyNokia`,'magenta'))
             console.log(color(`${global.themeemoji} GITHUB: gifteddevsmd `,'magenta'))
-            console.log(color(`${global.themeemoji} INSTAGRAM: gifteddaves `,'magenta'))
+            console.log(color(`${global.themeemoji} INSTAGRAM: gifted_dave`,'magenta'))
             console.log(color(`${global.themeemoji} WA NUMBER: ${global.owner}`,'magenta'))
             console.log(color(`${global.themeemoji} RECODE: ${global.wm}\n`,'magenta'))
             await delay(1000 * 2) 
-            Bellah.groupAcceptInvite("https://chat.whatsapp.com/H7HjnZ2pVznAon1bEYvkfX")*/
+            Bellah.groupAcceptInvite("https://chat.whatsapp.com/FCwOCmmS3unCOA5w0ehWfC?mode=r_t")*/
             console.log('> Bot is Connected< [ ! ]')
 		}
 	
