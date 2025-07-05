@@ -1,5 +1,5 @@
 {
-  "name": "𝐃𝐀𝐕𝐄-𝐗𝐌𝐃",
+  "name": "DAVE-XMD",
   "version": "2.0.0",
   "description": "WhatsApp bot",
   "logo": "https://i.imgur.com/yZN5Ynv.jpeg",
@@ -17,17 +17,17 @@
 },
   "BOT_NAME": {
       "description": "Enter bot name of your choice here",
-      "value": "VolTah Xmd",
+      "value": "DAVE-XMD",
       "required": false
     },
   "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
-      "value": "254104245659",
+      "value": "254784517274",
       "required": true
     },
   "PACK_NAME": {
       "description": "Enter your sticker pack name",
-      "value": "VolTahXmd",
+      "value": "DAVE-XMD",
       "required": false
     },
   "AUTOSW_VIEW": {
