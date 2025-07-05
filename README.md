@@ -14,9 +14,9 @@
 
 
 
-`Polite Notice`
+`Notice to users`
 
-* *`This Repo is not Obfuscated, And therefore any mistakes or errors persists due to recoding        owner will not be in Touch with it`*
+* *`This Repo files are not Obfuscated, And therefore any mistakes or errors persists due to   decodes  i will not be in Touch with it champeee`*
 
 
 
@@ -38,7 +38,7 @@
 </a>
 
 ---
-3.   > **Bot File(Panel Deployment)**
+3.   > **Bot File for (Panel Deployment)**
 
 <a href='https://www.mediafire.com/file/apl94yye6rc7jbh/BELLAH_XMD_V2.zip/file' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Zip%20Here-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
@@ -54,15 +54,7 @@ A.Render [`Tutorial`](https://youtu.be/bj59ynAaa3Y?si=cJpQPr1XaP7q-tDF)
 
 
 
-
-
-
 B.Scalingo  [`Soon`](hhttps://youtu.be/XAEvjrFIoiw?si=zdVjdtav3ZtsjTRz).
-
-
-
-
-
 
 
 
